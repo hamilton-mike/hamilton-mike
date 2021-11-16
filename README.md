@@ -3,7 +3,7 @@
 const michael = {
   pronouns: "he" | "him",
   code: [Javascript, EJS, HTML, CSS, Python],
-  hobbies: [Programming, Anime, Music, Sports, YouTube],
+  hobbies: [Programming, Anime, Music, Sports, Xbox],
   relocation: true,
   links: {
         linkedin: 'https://www.linkedin.com/in/mikehamdev',
