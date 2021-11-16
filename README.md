@@ -5,7 +5,6 @@ const michael = {
   code: [Javascript, EJS, HTML, CSS, Python],
   hobbies: [Programming, Anime, Music, Sports, YouTube],
   relocation: true,
-  education: "General Assembly"
   links: {
         linkedin: 'https://www.linkedin.com/in/mikehamdev',
         portfolio: 'https://michaelhamilton.netlify.app'
