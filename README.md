@@ -2,8 +2,8 @@
 ```javascript
 const michael = {
   pronouns: "he" | "him",
-  code: [Javascript, EJS, HTML, CSS, Python],
-  hobbies: [Programming, Anime, Music, Sports, Xbox],
+  code: [HTML, CSS, JavaScript],
+  hobbies: [Programming, Anime, Music, Sports, PlayStation, Traveling],
   relocation: true,
   links: {
         linkedin: 'https://www.linkedin.com/in/mikehamdev',
