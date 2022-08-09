@@ -2,7 +2,7 @@
 ```javascript
 const michael = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, JavaScript],
+  code: [HTML, CSS, JavaScript, React, Storybook, Jest],
   hobbies: [Programming, Anime, Music, Sports, PlayStation, Traveling],
   relocation: true,
   links: {
